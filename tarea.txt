@@ -1,0 +1,6 @@
+Agregar elementos a listas
+
+manipular listas : buscar, editar, eliminar
+
+recorrer una lista al reves
+
